@@ -12,9 +12,13 @@ body {
 }
 
 @keyframes myanimation {
-  0% {background-color: red;}
-  25%{background-color:yellow;}
-  50%{background-color:green;}
-  75%{background-color:brown;}
-  100% {background-color: red;}
+  0% {background-image: url(test/pic-2.jpg);}
+  5%{background-image: url(test/pic-1.jpg);}
+  15%{background-image: url(test/pic-3.jpg);}
+  30%{background-image: url(test/pic-4.jpg);}
+  45%{background-image: url(test/pic-5.jpg);}
+  60%{background-image: url(test/pic-6.jpg);}
+  75%{background-image: url(test/pic-7.jpg);}
+  90%{background-image: url(test/pic-8.jpg);}
+  100%{background-image: url(test/pic-9.jpg);}
 }
