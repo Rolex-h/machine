@@ -1,6 +1,6 @@
 html,
 body {
-  background:url(http://lorempixel.com/400/400/people/1);
+  background:url(test/pic-2.jpg);
   animation: chbg 15s infinite alternate;
   background-size:cover
 }
