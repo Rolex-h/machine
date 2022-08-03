@@ -42,7 +42,6 @@ body {
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    background: #000;
 }
 
 .glow-on-hover {
