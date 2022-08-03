@@ -1,36 +1,9 @@
 html,
 body {
   background:url(test/pic-2.jpg);
-  animation: chbg 15s infinite alternate;
-  background-size:cover
+  background-size:cover;
 }
-@keyframes chbg {
-  0% {
-    background:url(test/pic-2.jpg);
-  background-size:cover
-  }
-  20% {
-    background:url(test/pic-1.jpg);
-  background-size:cover
-  }
-  40% {
-    background:url(test/pic-3.jpg);
-  background-size:cover
-  }
-  60% {
-    background:url(test/pic-2.jpg);
-  background-size:cover
-  }
-  80% {
-    background:url(test/pic-4.jpg);
-  background-size:cover
-  }
-  100% {
-    background:url(test/pic-5.jpg);
-  background-size:cover
-  }
-}
-
+  
 /* button-section start  */
 
 .kozhi-babu{
